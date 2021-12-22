@@ -10,6 +10,7 @@ The data provided was for multiple subcategories so after reviewing the data, I 
 
 ![image](https://user-images.githubusercontent.com/95455988/147024167-dcceb3eb-61e0-420b-9eb5-9c5b88406872.png)
 
+![](images/outcomes_vs_goals)
 
 ![](jenv5507/kickstarter-analysis/images/Outcomes_vs_Goals.png)
 https://github.com/jenv5507/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png
