@@ -7,6 +7,6 @@ I have reviewed the data of campaigns in regards to theatre plays so that my cli
 **Analysis and Challenges**
 
 The data provided was for multiple subcategories so after reviewing the data, I created a pivot table first to show the total category of theater campaigns by month and whether they were successful, failed or canceled.  From there, I created a graph so that you can visually see the trends for the outcomes of the theatre campaigns which you can see by clicking on the link below.
-[Theatre Outcomes based on launch date(docs/Theatre_Outcomes_vs_Launch.md)
+[Theatre Outcomes based on launch date(kickstarter-analysis/Theatre_Outcomes_vs_Launch.md)
 
 
