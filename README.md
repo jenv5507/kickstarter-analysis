@@ -11,5 +11,5 @@ The data provided was for multiple subcategories so after reviewing the data, I 
 
 ![](images/outcomes_vs_goals.png)
 
-
+![](https://github.com/jenv5507/kickstarter-analysis/blob/main/Images/Outcomes_vs_Goals)
 
