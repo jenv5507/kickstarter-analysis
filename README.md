@@ -12,6 +12,7 @@ I did not have any challenges but I was off on my total projects so I added a te
 
 
 **Results**
+
 You may notice that the successful and failed outcomes move in a similar trend and they intersect in December.  In December, there is a 50/50 chance of having a successful campaign.  May, June and July are the most successful months for a campaign.
 
 In additional to the most successful months of campaigns, I took a look at whether or not the amount of the goal as an effect on the outcome.  The highest percentage of successful campaigns are those under $5,000 which is where almost 69% of the total campaigns.  From over $5,000 to $24,999, the rate of success ranges from 45% to 55%.  The amount of campagins over $25,000 is only 4.01% of the total projects. 
