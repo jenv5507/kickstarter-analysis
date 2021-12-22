@@ -6,10 +6,11 @@ I have reviewed the data of campaigns in regards to theatre plays so that my cli
 
 **Analysis and Challenges**
 
-The data provided was for multiple subcategories so after reviewing the data, I created a pivot table first to show the total category of theater campaigns by month and whether they were successful, failed or canceled.  From there, I created a graph so that you can visually see the trends for the outcomes of the theatre campaigns which you can see below.
+The data provided was for multiple subcategories so after reviewing the data, I created a pivot table first to show the total category of theater campaigns by month and whether they were successful, failed or canceled.  From there, I created a graph so that you can visually see the trends for the outcomes of the theatre campaigns by month which you can see below.  You may notice that the succesfsful and failed outcomes move in a similar trend and they intersect in December.  In December, there is a 50/50 chance of having a successful campaign.  May, June and July are the most successful months for a campaign. 
+
 ![image](https://user-images.githubusercontent.com/95455988/147024167-dcceb3eb-61e0-420b-9eb5-9c5b88406872.png)
 
 
-[](Images/Outcomes_vs_Goals.png)
+[](Ijenv5507/kickstarter-analysis/images/Outcomes_vs_Goals.png)
 https://github.com/jenv5507/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png
 
