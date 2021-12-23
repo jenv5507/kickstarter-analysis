@@ -20,4 +20,4 @@ In additional to the most successful months of campaigns, I took a look at wheth
 
 I noticed that there is a column for currency so people could be assuming this is all in US dollars or their currency depending on what country they are in.  As far as the analysis, I would have also looked at the outcomes by date by the year to see if there were any years that were greater than others.  Also, I would have looked at the outcomes by date and the goals by country as well to determine if there were certain countries that had higher goals.  The outcomes based on goals does have some outliers which can skew the data shown by launch date.  I would have done another pivot charge showing total goal and total pledge and also done a bar chart so that I could see if the pledged amount was greater than the goal amount by month.  This could help when doing future campaigns and the potential goal that could be reached. 
 
-![](/images/outcomes_vs_goals.png)
+![image](/images/Outcomes_vs_Goals.png)
