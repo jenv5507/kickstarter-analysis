@@ -33,7 +33,7 @@ I noticed that there is a column for currency so people could be assuming this i
 
 As far as the analysis, I would have also looked at the outcomes by date by year to see if there were any years that were greater than others.  Also, I would have looked at the outcomes by date and the goals by country as well to determine if there were certain countries that had higher goals.  The outcomes based on goals does have outliers due to the high goal dollars which skews the data shown by launch date.  I would have done another pivot table showing total goal and total pledge and also done a bar chart so that I could see if the pledged amount was greater than the goal amount by month.  This could help when doing future campaigns and the potential goal that could be reached. 
 
-**Recommendations"
+**Recommendation**
 
 I recommend to roll out campaigns that are under $5,000 and with a launch date of May, June or July.  
 
