@@ -17,7 +17,7 @@ After reviewing the data, there were multiple subcategories included so I focuse
 
 After looking at the outcomes by month, I wanted to see if the goal amount was relative to the outcome.  I did this by creating a histogram and creating a line chart so that you can easily see the success and fail of the campagins by dollar range as you can see in the graph below.
 
-![](/Images/Outcomes_Based_on_Goals.png) 
+![](/Images/Outcomes_vs_Goals.png) 
 
 **Challenges and Difficulties Encountered**
 
