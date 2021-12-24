@@ -3,21 +3,21 @@
  
 **Overview of Project**
 
-I have reviewed the data of campaigns in regards to theatre plays so that my client Louise can have a better understanding of the results of campaigns relating to their launch dates and funding goals.  Louise had a goal of $2,885 for the play Fever and was short $400 and is interested in finding trends so that she can be successful in future campaigns.  Through this analysis, I was able to identify some trends as explained in my analysis below.
+I have reviewed the data of campaigns in regards to theater plays so that my client Louise can have a better understanding of the results of campaigns relating to their launch dates and funding goals.  Louise had a goal of $2,885 for the play Fever and was short $400 and is interested in finding trends so that she can be successful in future campaigns.  Through this analysis, I was able to identify some trends as explained in my analysis below.
 
 **Purpose**
 
 **Analysis of Outcomes Based on Launch Date**
 
-After reviewing the data, there were multiple subcategories included so I focused on just theatre campagins.  I wanted to look at the results of campaigns based on launch date so I created a pivot table to look at the data by month.  From there, I fit the data into a line chart to be able to predict the best time to launch a theatre play campaign as you can see in the graph below.
+After reviewing the data, there were multiple subcategories included so I focused on just theater campagins.  I wanted to look at the results of theater campaigns based on launch date so I created a pivot table to look at the data by month for theater only.  From there, I fit the data into a line chart to be able to predict the best time to launch a theater play campaign as you can see in the graph below.
 
-![](/Images/Theater_Outcomes_vs_Launch.png)
-
-The data provided was for multiple subcategories so after reviewing the data, I created a pivot table first to show the total category of theater campaigns by month and whether they were successful, failed or canceled.  From there, I created a graph so that you can visually see the trends for the outcomes of the theatre campaigns by month which you can see below.  
+![](/Images/Theater_Outcomes_vs_Launch.png) 
 
 **Analysis of Outcomes Based on Goals**
 
-After looking at the outcomes by month, I wanted to see if the goal amount was related to the outcome.  I did this by creating a histogram and creating a chart so that you can easily see the success and fail of the campagins by dollar range.
+After looking at the outcomes by month, I wanted to see if the goal amount was relative to the outcome.  I did this by creating a histogram and creating a line chart so that you can easily see the success and fail of the campagins by dollar range as you can see in the graph below.
+
+![](/Images/Outcomes_Based_on_Goals.png) 
 
 **Challenges and Difficulties Encountered**
 
