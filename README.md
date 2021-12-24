@@ -9,7 +9,7 @@ I have reviewed the data of campaigns in regards to theater plays so that my cli
 
 **Analysis of Outcomes Based on Launch Date**
 
-After reviewing the data, there were multiple subcategories included so I focused on just theater campagins.  I wanted to look at the results of theater campaigns based on launch date so I created a pivot table to look at the data by month for theater only.  From there, I fit the data into a line chart to be able to predict the best time to launch a theater play campaign as you can see in the graph below.
+After reviewing the data, there were multiple subcategories included so I focused on just theater campaigns.  I wanted to look at the results of theater campaigns based on launch date so I created a pivot table to look at the data by month for theater only.  From there, I fit the data into a line chart to be able to predict the best time to launch a theater play campaign as you can see in the graph below.
 
 ![](/Images/Theater_Outcomes_vs_Launch.png) 
 
