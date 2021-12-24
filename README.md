@@ -11,7 +11,7 @@ I have reviewed the data of campaigns in regards to theatre plays so that my cli
 
 After reviewing the data, there were multiple subcategories included so I focused on just theatre campagins.  I wanted to look at the results of campaigns based on launch date so I created a pivot table to look at the data by month.  From there, I fit the data into a line chart to be able to predict the best time to launch a theatre play campaign as you can see in the graph below.
 
-![](/Images/Theater_Outcomes_vs_Launch.png | width=100)
+![](/Images/Theater_Outcomes_vs_Launch.png)
 
 The data provided was for multiple subcategories so after reviewing the data, I created a pivot table first to show the total category of theater campaigns by month and whether they were successful, failed or canceled.  From there, I created a graph so that you can visually see the trends for the outcomes of the theatre campaigns by month which you can see below.  
 
