@@ -25,7 +25,7 @@ I did not have any big challenges but I was off on my total projects which I not
 
 **Results**
 
-As I reviewed the graph about labeled "Theater Outcomes Based on Launch Date" I noticed that the successful and failed outcomes move in a similar trend and they intersect in December.  In December, there is a 50/50 chance of having a successful campaign.  May, June and July are the most successful months for a campaign.
+As I reviewed the graph labeled "Theater Outcomes Based on Launch Date" I noticed that the successful and failed outcomes move in a similar trend and they intersect in December.  In December, there is a 50/50 chance of having a successful campaign.  May, June and July are the most successful months for a campaign.
 
 The Outcomes Based on Goal graph shows the percentage successful and failed based on dollar range.  The highest percentage of successful campaigns are those under $5,000 which is where almost 69% of the total campaigns fall into.  From over $5,000 to $24,999, the rate of success ranges from 45% to 55%.  The amount of campagins over $25,000 is only 4.01% of the total projects. 
 
