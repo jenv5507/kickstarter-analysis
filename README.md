@@ -9,6 +9,10 @@ I have reviewed the data of campaigns in regards to theatre plays so that my cli
 
 **Analysis of Outcomes Based on Launch Date**
 
+After reviewing the data, there were multiple subcategories included so I focused on just theatre campagins.  I wanted to look at the results of campaigns based on launch date so I created a pivot table to look at the data by month.  From there, I fit the data into a line chart to be able to predict the best time to launch a theatre play campaign as you can see in the graph below.
+
+![](/Images/Theater_Outcomes_vs_Launch.png | width=100)
+
 The data provided was for multiple subcategories so after reviewing the data, I created a pivot table first to show the total category of theater campaigns by month and whether they were successful, failed or canceled.  From there, I created a graph so that you can visually see the trends for the outcomes of the theatre campaigns by month which you can see below.  
 
 **Analysis of Outcomes Based on Goals**
@@ -28,4 +32,4 @@ In additional to the most successful months of campaigns, I took a look at wheth
 
 I noticed that there is a column for currency so people could be assuming this is all in US dollars or their currency depending on what country they are in.  As far as the analysis, I would have also looked at the outcomes by date by the year to see if there were any years that were greater than others.  Also, I would have looked at the outcomes by date and the goals by country as well to determine if there were certain countries that had higher goals.  The outcomes based on goals does have some outliers which can skew the data shown by launch date.  I would have done another pivot charge showing total goal and total pledge and also done a bar chart so that I could see if the pledged amount was greater than the goal amount by month.  This could help when doing future campaigns and the potential goal that could be reached. 
 
-![](/Images/Theater_Outcomes_vs_Launch.png)
+
