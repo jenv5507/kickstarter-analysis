@@ -29,7 +29,7 @@ As I reviewed the graph labeled "Theater Outcomes Based on Launch Date" I notice
 
 The Outcomes Based on Goal graph shows the percentage successful and failed based on dollar range.  The highest percentage of successful campaigns are those under $5,000 which is where almost 69% of the total campaigns fall into.  From over $5,000 to $24,999, the rate of success ranges from 45% to 55%.  The amount of campagins over $25,000 is only 4.01% of the total projects. 
 
-I noticed that there is a column for currency so people could be assuming this is all in US dollars or their currency depending on what country they are in.  If the dollars are in the respective county dollars, this would skew the analysis.
+I noticed that there is a column for currency so people could be assuming this is all in US dollars or their currency depending on what country they are in.  If the dollars are in the respective country dollars, this would skew the analysis.
 
 As far as the analysis, I would have also looked at the outcomes by date by year to see if there were any years that were greater than others.  Also, I would have looked at the outcomes by date and the goals by country as well to determine if there were certain countries that had higher goals.  The outcomes based on goals does have outliers due to the high goal dollars which skews the data shown by launch date.  I would have done another pivot table showing total goal and total pledge and also done a bar chart so that I could see if the pledged amount was greater than the goal amount by month.  This could help when doing future campaigns and the potential goal that could be reached. 
 
